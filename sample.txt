@@ -1,0 +1,5 @@
+Print a String in Pattern Format In Python
+
+
+Reverse Number Of A 5 Digits Number In Python
+
