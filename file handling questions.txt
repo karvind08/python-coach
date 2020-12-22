@@ -1,0 +1,24 @@
+1. Write a function in Python to read the content from a text file line by line and display the same on the screen.
+2. Write a function in Python to read lines from a text file line by line and display those lines which are starting with an alphabet s.
+3. Write a function in Python to read lines from a text file line by line and display those lines which are either starting with an alphabet 's' or starting with an alphabet 'd'.
+4. Write a function in Python to count the number of lines from a text file which are starting with a character 's'.
+5. Write a python function to read lines from a text file line by line and display those lines which are having more than 10 characters.
+6. Write a python function to read lines from a text file and count the total number of words in a file.
+7. Write a python function to read content from a text file and display the occurances of the word 'to'.
+8. Write a python function to read content from a text file and display the occurances of those words which are having 5 or more alphabets.
+9. Write a python function to read content from a text file and count and display the occurance of the words 'is','to'.
+10. Write a python program to combine each line from first file with corresponding line in the second file.
+11. Write a python program to read content from a text file and write those lines in a file which are starting with 'a'. 
+12. Write a python program to read content from a text file and write those lines in a file which are not starting with 'a'. 
+13. Write a python program to read content from a text file and write those lines in other file that does not contain 'z' letter.
+14.
+
+
+
+Binary File
+=========================================================================================
+Consider the binary file as 'emp.dat' and we are storing the details of employees such as empid,name,salary,gender and designation. 
+
+1. Write a function to search and display the details of a particular employee whose empid is passed to function as a parameter.
+2. Write a function to search and display the names of all the employee whose salary is in the range of 50000 to 80000.
+3. Write a function to transfer all records from emp.dat to emp1.dat for those employee whose gender is M. 
