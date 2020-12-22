@@ -1,34 +1,19 @@
-1. Write a Python function to find the Max of three numbers.
 1. Write a program to check if a given key exists in a dictionary or not. if key exists print the value of it.
-2. Write a program to find out the factorial of a given number.
 2. Write a program to Concatenate two dictioanries into one. 
-3. Write a program to find out the sum of first N natural numbers.
 3. Write a program to calculate sum of all values in a dictionary.
-4. Write a Python function that takes a number as a parameter and check the number is prime or not.
 4. Write a program to calculate multiplication of all values in a dictionary.
-5. Write a Program to check whether a number is in a given range.
 5. Write a program to Convert two lists into dictionary. 
-6. Write a program to find out the sum of elements from a list.
 6. Write a program to Create a dictionary which contains numbers between 1 to n as a key and square of them as a value.
-7. Write a program to find out the multiplication of elements from a list.
 7. Write a program to create a dictionary that contains state names and their capitals. 
-8. Write a Python function to check whether a number is perfect or not.
 8. Write a program to create a dictionary of students to store names and their marks obtianed in  5 subjects. 
-9. Write a Python function to create and print a list where the values are square of numbers between 1 and 20 (both included).
 9. Write a program to create a dictionary of students to store names and their marks obtianed in  5 subjects also check if a given student exists in a dictionary or not. if student exists print the marks otherwise print student not found.
-10. Write a program to calculate sum of digits of a 5 digits number using function. 
 10. Write a program to sort the dictionary by values.
-11. Write a program to find out reverse number of a 5 digits number using function. 
 11. Write a program to Concatenate two dictioanries into one. 
-12. Write a function that accepts a string and calculate the number of upper case letters and lower case letters.
 12. Write a program to Convert two lists into dictionary. 
-13. Write a function that takes a list and returns a new list with unique elements of the first list.
 13. Write a program to Create a dictionary which contains numbers between 1 to n as a key and square of them as a value.
-14. Write a Python function that takes a list and returns a new list with even elements in the list.
 14. Write a program to create a dictionary that contains state names and their capitals. 
-15. Write a program to find out the factorial of a given number using recursion.
 15. Write a program to create a dictionary of students to store names and their marks obtianed in  5 subjects. 
-16. Write a program to find out the sum of first n natural numbers using recursion.
 16. Write a program to create a dictionary of students to store names and their marks obtianed in  5 subjects also check if a given student exists in a dictionary or not. if student exists print the marks otherwise print student not found.
-17. Write a program to calculate sum of digits of a 5 digits number using recursion. 
 17. Write a program to sort the dictionary by values.
+
+

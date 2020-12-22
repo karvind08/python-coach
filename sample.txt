@@ -1,5 +1,57 @@
-Print a String in Pattern Format In Python
+What can partial functions do for us?
+
+A partial function allows us to call a second function with fixed values in certain arguments. 
+For instance, we may have a function that computes an exponentiation. 
+Then, we may need to create a new function that assigns a fixed value to either the base or the exponent.
+We can easily do this by using functool’s partial function, without having to replicate the body of the original function. Let’s go through the implementation of the above example to get a better understanding.
+Implementing a partial exponentiation function
+First of all, we’ll need the function from which the partial function will be based on. As mentioned before, we’ll implement an exponentiation function:
 
 
-Reverse Number Of A 5 Digits Number In Python
+321-555-4321
 
+456-654-4568
+
+215.654.8546
+
+135*546*5647
+
+cat
+mat
+pat
+rat
+bat
+
+Ha HaHa
+
+Mr. Arvind
+
+Mr Amit
+
+Ms Binny
+
+Mrs. Robinson
+
+Mr. T
+
+
+CoreyMSchafer@gmail.com
+corey.schafer@university.edu
+corey.schafer@university.in
+corey-321-schafer@my-work.net  
+
+
+Patterns for e-mail:
+
+[a-zA-Z0-9.-]+@[a-zA-Z-]+\.(com|edu|in|net)
+[a-zA-Z0-9.-]+@[a-zA-Z-]+\.[a-z]{2,3}
+[a-zA-Z0-9.-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9.-]+
+
+
+https://www.google.com
+http://coreyms.com
+https://youtube.com
+
+https?://(www\.)?\w+\.\w+
+
+https?://(www\.)?(\w+)(\.\w+)

@@ -1,0 +1,17 @@
+1. Write a Python function to find the Max of three numbers.
+2. Write a program to find out the factorial of a given number.
+3. Write a program to find out the sum of first N natural numbers.
+4. Write a Python function that takes a number as a parameter and check the number is prime or not.
+5. Write a Program to check whether a number is in a given range.
+6. Write a program to find out the sum of elements from a list.
+7. Write a program to find out the multiplication of elements from a list.
+8. Write a Python function to check whether a number is perfect or not.
+9. Write a Python function to create and print a list where the values are square of numbers between 1 and 20 (both included).
+10. Write a program to calculate sum of digits of a 5 digits number using function. 
+11. Write a program to find out reverse number of a 5 digits number using function. 
+12. Write a function that accepts a string and calculate the number of upper case letters and lower case letters.
+13. Write a function that takes a list and returns a new list with unique elements of the first list.
+14. Write a Python function that takes a list and returns a new list with even elements in the list.
+15. Write a program to find out the factorial of a given number using recursion.
+16. Write a program to find out the sum of first n natural numbers using recursion.
+17. Write a program to calculate sum of digits of a 5 digits number using recursion. 

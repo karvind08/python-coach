@@ -1,0 +1,36 @@
+
+
+
+321-555-4321
+
+456-654-4568
+
+215.654.8546
+
+135*546*5647
+
+
+
+Mr. Arvind
+
+Mr Amit
+
+Ms Binny
+
+Mrs. Robinson
+
+Mr. T
+
+
+
+
+
+
+
+https://www.google.com
+http://coreyms.com
+https://youtube.com
+
+https?://(www\.)?\w+\.\w+
+
+https?://(www\.)?(\w+)(\.\w+)
