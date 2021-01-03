@@ -1,0 +1,64 @@
+#6.Write a program to read data from a text file and display all available digits in that text file. 
+
+#7.Write a python program to read content from a text file and write those lines in a file which are not starting with 'a'.
+
+#8.Write a python program to read content from a text file and write those lines in other file that does not contain 'z' letter.
+
+#9.Write a python function to read lines from a text file and count the total number of words in a file.
+
+#10. Write a python function to read content from text file and calculate & display those words which are ending with 'e'.
+
+#11. Write a python function to read content from text file and remove multiple spaces with a single space and write data in other file. 
+
+#12. Write a python function to read content from text file and display those words which are less than 4 characters.
+
+#13. Write a Python program to count the words 'to', 'the' and 'of' in file.
+
+#14. Write a python function to read content from text file. all lowercase letters should be stored in lower.txt file whereas all uppercase letters should be stored in upper.txt file and other letters should be stored in others.txt. 
+
+#15. Write a python program to display all records in a file along with line or record number.
+
+#16. Write a python program to copy all the data from one file to another file. Take Input from the user. 
+
+#17. Write a function in Python to read lines from a text file line by line and display those lines which are either starting with an alphabet 's' or starting with an alphabet 'd'.
+
+#18. Write a function in Python to count the number of lines from a text file which are starting with a character 's'.
+
+#19. Write a python function to read lines from a text file line by line and display those lines which are having more than 10 characters.
+
+#20. Write a python function to read content from a text file and display the occurances of the word 'to'.
+
+#21. Write a python function to read content from a text file and display the occurances of those words which are having 5 or more alphabets.
+
+#22. Write a python program to combine each line from first file with corresponding line in the second file.
+
+#23. Write a python program to read random line from a file. 
+
+#24. Write a python program to replace all lowercase letters with their respective uppercase letters in the same file. 
+
+=====================================================
+Binary Files:
+
+#1 A file sports.dat contains information in the following format: [event,participants] for each sportsperson. 
+
+	# Write a function that would read contents from 'sports.dat' file and creates a file names 'athletics.dat' copying only those records from 'sports.dat' where the event name is 'athletics'.
+
+#2 Consider the binary file as 'emp.dat' storing the details of employees such as empid, name, salary, gender and designation. 
+
+	# Write a program to read all details from the file emp.dat. 
+
+	# Write a program to search and display the details of a perticular employee whose empid is passed as a parameter to the function. 
+
+	# Write a program to search and display the names of all employees whose salary is in the range of 50000 to 80000. 
+
+	# Write a program to transfer all records from emp.dat file to emp1.dat file of those employees whose gender is 'M'.
+
+
+
+#3 Write a program to read content from the binary file having information player id, player name, total runs and country and then perform the following operations. 
+
+	# Input country name from the user and count the number of players of that country. 
+
+	# Display all records where player names starts from a. 
+
+	# Display records of players whose total runs are more than 10000. 
