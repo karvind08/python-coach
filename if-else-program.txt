@@ -1,0 +1,10 @@
+Obstacles do not block the path, they are path.
+Relational Operators
+
+1. Write a Python program to find whether a given number (accept from the user) is even or odd.
+2. If cost price and selling price of an item is input through the keyboard, write a program to determine whether the seller has made profit or incurred loss. Also determine how much profit he made or loss he incurred.
+3. Any year is input through the keyboard. Write a program to determine whether the year is a leap year or not.
+4. Write a program to check whether a triangle is valid or not, when the three angles of the triangle are entered through the keyboard. A triangle is valid if the sum of all the three angles is equal to 180 degrees.
+5. Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three points fall on one straight line.
+6. Program to find the smallest element among three numbers. 
+7. Any year is input through the keyboard. Write a program to determine whether the year is a leap year or not using logical operators.
