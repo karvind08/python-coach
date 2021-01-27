@@ -1,4 +1,11 @@
 Obstacles do not block the path, they are path.
+
+“Keep experimenting, keep working, and be patient with yourself—Rome wasn’t built in a day.”
+
+Let us go ahead and take a look at a few examples to understand how these methods work in Python.
+
+
+
 Relational Operators
 
 1. Write a Python program to find whether a given number (accept from the user) is even or odd.
