@@ -27,3 +27,5 @@ Relational Operators
 6. Program to find the smallest element among three numbers. 
 >>>>>>> 541e2ac7cf6153a582bf358236ff19ec3dbf6fdc
 7. Any year is input through the keyboard. Write a program to determine whether the year is a leap year or not using logical operators.
+
+
